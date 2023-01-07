@@ -1,2 +1,2 @@
-# Alura.Plus
+# Criação do site Alura.Plus
 # Curso Alura - Praticando HTML e CSS instrutora Monica H.
